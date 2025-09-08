@@ -14,5 +14,4 @@ dependencies:
   - dask
   - opencv
   - tensorflow
-  - sklearn
-  - glob
+  - scikit-learn
