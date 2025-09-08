@@ -16,3 +16,4 @@ dependencies:
   - tensorflow
   - scikit-learn
   - lightgbm
+  - seaborn
