@@ -1,0 +1,8 @@
+"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
+"syn69750470","config_for_pgm.json","1","application/json","2208","3512884","1757350712300","3512884","1757350712300","syn69750468","https://www.synapse.org/#!Synapse:syn69750470.1","4d8fb90bfd6a8cee9b1149dfe2fe05b9"
+"syn69750469","RNASeq_NF1_test.csv","1","text/csv","11821","3512884","1757350712284","3512884","1757350712284","syn69750468","https://www.synapse.org/#!Synapse:syn69750469.1","4186094d5b36b774009d57d560d9406d"
+"syn69750472","mean_dict.joblib","1","application/octet-stream","12227","3512884","1757350712453","3512884","1757350712453","syn69750468","https://www.synapse.org/#!Synapse:syn69750472.1","c8b0ec69f2d3a3a3b0d9c7c6ba0bbba1"
+"syn69750471","df_train_processed.csv","1","text/csv","13048","3512884","1757350712373","3512884","1757350712373","syn69750468","https://www.synapse.org/#!Synapse:syn69750471.1","781dcc5a814c35dc7ee86dc5c6feaaa3"
+"syn69750474","RNASeq_NF1_train.csv","1","text/csv","45094","3512884","1757350712506","3512884","1757350712506","syn69750468","https://www.synapse.org/#!Synapse:syn69750474.1","417b1b70ca64684a15bce543ba16cb08"
+"syn69750473","all_data_RNASeq_NF1.csv","1","text/csv","56099","3512884","1757350712478","3512884","1757350712478","syn69750468","https://www.synapse.org/#!Synapse:syn69750473.1","9ab66bd85e2cfebe2f6cabe1145c9f72"
+"syn69750475","df_synth_train.csv","1","text/csv","108520","3512884","1757350712554","3512884","1757350712554","syn69750468","https://www.synapse.org/#!Synapse:syn69750475.1","b0a62580a5e0389c5b1004e235a911a4"
